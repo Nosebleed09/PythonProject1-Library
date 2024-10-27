@@ -1,0 +1,201 @@
+Serial Code Book Title                                        Genre               
+GOLDM24F001 1984                                              Fiction             
+GOLDM24F002 Anna Karenina                                     Fiction             
+GOLDM24F003 Atonement                                         Fiction             
+GOLDM24F004 Beloved                                           Fiction             
+GOLDM24F005 Brave New World                                   Fiction             
+GOLDM24F006 Catch-22                                          Fiction             
+GOLDM24F007 Crime and Punishment                              Fiction             
+GOLDM24F008 Dracula                                           Fiction             
+GOLDM24F009 East of Eden                                      Fiction             
+GOLDM24F010 Fahrenheit 451                                    Fiction             
+GOLDM24F011 Gone with the Wind                                Fiction             
+GOLDM24F012 Great Expectations                                Fiction             
+GOLDM24F013 Jane Eyre                                         Fiction             
+GOLDM24F014 Les Misérables                                    Fiction             
+GOLDM24F015 Life of Pi                                        Fiction             
+GOLDM24F016 Lolita                                            Fiction             
+GOLDM24F017 Middlemarch                                       Fiction             
+GOLDM24F018 Moby Dick                                         Fiction             
+GOLDM24F019 One Hundred Years of Solitude                     Fiction             
+GOLDM24F020 Pride and Prejudice                               Fiction             
+GOLDM24F021 Rebecca                                           Fiction             
+GOLDM24F022 Slaughterhouse-Five                               Fiction             
+GOLDM24F023 The Alchemist                                     Fiction             
+GOLDM24F024 The Book Thief                                    Fiction             
+GOLDM24F025 The Brothers Karamazov                            Fiction             
+GOLDM24F026 The Catch-22                                      Fiction             
+GOLDM24F027 The Catcher in the Rye                            Fiction             
+GOLDM24F028 The Great Gatsby                                  Fiction             
+GOLDM24F029 The Hobbit                                        Fiction             
+GOLDM24F030 The Kite Runner                                   Fiction             
+GOLDM24F031 The Lord of the Rings                             Fiction             
+GOLDM24F032 The Lovely Bones                                  Fiction             
+GOLDM24F033 The Night Circus                                  Fiction             
+GOLDM24F034 The Odyssey                                       Fiction             
+GOLDM24F035 The Picture of Dorian Gray                        Fiction             
+GOLDM24F036 The Road                                          Fiction             
+GOLDM24F037 The Sun Also Rises                                Fiction             
+GOLDM24F038 To Kill a Mockingbird                             Fiction             
+GOLDM24F039 War and Peace                                     Fiction             
+GOLDM24F040 Wuthering Heights                                 Fiction             
+GOLDM24N041 A Brief History of Time                           Non-Fiction         
+GOLDM24N042 Bad Blood                                         Non-Fiction         
+GOLDM24N043 Becoming                                          Non-Fiction         
+GOLDM24N044 Blink                                             Non-Fiction         
+GOLDM24N045 Born a Crime                                      Non-Fiction         
+GOLDM24N046 Born to Run                                       Non-Fiction         
+GOLDM24N047 Educated                                          Non-Fiction         
+GOLDM24N048 Factfulness                                       Non-Fiction         
+GOLDM24N049 Freakonomics                                      Non-Fiction         
+GOLDM24N050 Grit                                              Non-Fiction         
+GOLDM24N051 Guns, Germs, and Steel                            Non-Fiction         
+GOLDM24N052 Hillbilly Elegy                                   Non-Fiction         
+GOLDM24N053 Hiroshima                                         Non-Fiction         
+GOLDM24N054 I Am Malala                                       Non-Fiction         
+GOLDM24N055 Into the Wild                                     Non-Fiction         
+GOLDM24N056 Man's Search for Meaning                          Non-Fiction         
+GOLDM24N057 Outliers                                          Non-Fiction         
+GOLDM24N058 Quiet                                             Non-Fiction         
+GOLDM24N059 Sapiens                                           Non-Fiction         
+GOLDM24N060 Steve Jobs                                        Non-Fiction         
+GOLDM24N061 Superfreakonomics                                 Non-Fiction         
+GOLDM24N062 Team of Rivals                                    Non-Fiction         
+GOLDM24N063 The Art of War                                    Non-Fiction         
+GOLDM24N064 The Devil in the White City                       Non-Fiction         
+GOLDM24N065 The Diary of a Young Girl                         Non-Fiction         
+GOLDM24N066 The Emperor of All Maladies                       Non-Fiction         
+GOLDM24N067 The Gene                                          Non-Fiction         
+GOLDM24N068 The Glass Castle                                  Non-Fiction         
+GOLDM24N069 The Hidden Life of Trees                          Non-Fiction         
+GOLDM24N070 The Immortal Life of Henrietta Lacks              Non-Fiction         
+GOLDM24N071 The Power of Habit                                Non-Fiction         
+GOLDM24N072 The Righteous Mind                                Non-Fiction         
+GOLDM24N073 The Sixth Extinction                              Non-Fiction         
+GOLDM24N074 The Soul of America                               Non-Fiction         
+GOLDM24N075 The Tipping Point                                 Non-Fiction         
+GOLDM24N076 The Warmth of Other Suns                          Non-Fiction         
+GOLDM24N077 The Wright Brothers                               Non-Fiction         
+GOLDM24N078 Thinking, Fast and Slow                           Non-Fiction         
+GOLDM24N079 Unbroken                                          Non-Fiction         
+GOLDM24N080 When Breath Becomes Air                           Non-Fiction         
+GOLDM24S081 Altered Carbon                                    Science Fiction     
+GOLDM24S082 Children of Time                                  Science Fiction     
+GOLDM24S083 Dawn                                              Science Fiction     
+GOLDM24S084 Do Androids Dream of Electric Sheep?              Science Fiction     
+GOLDM24S085 Dune                                              Science Fiction     
+GOLDM24S086 Ender's Game                                      Science Fiction     
+GOLDM24S087 Fahrenheit 451                                    Science Fiction     
+GOLDM24S088 Foundation                                        Science Fiction     
+GOLDM24S089 Hyperion                                          Science Fiction     
+GOLDM24S090 I, Robot                                          Science Fiction     
+GOLDM24S091 Neuromancer                                       Science Fiction     
+GOLDM24S092 Old Man's War                                     Science Fiction     
+GOLDM24S093 Oryx and Crake                                    Science Fiction     
+GOLDM24S094 Perdido Street Station                            Science Fiction     
+GOLDM24S095 Ready Player One                                  Science Fiction     
+GOLDM24S096 Red Mars                                          Science Fiction     
+GOLDM24S097 Ringworld                                         Science Fiction     
+GOLDM24S098 Snow Crash                                        Science Fiction     
+GOLDM24S099 Snowpiercer                                       Science Fiction     
+GOLDM24S100 Starship Troopers                                 Science Fiction     
+GOLDM24S101 Stranger in a Strange Land                        Science Fiction     
+GOLDM24S102 The Andromeda Strain                              Science Fiction     
+GOLDM24S103 The Book of the New Sun                           Science Fiction     
+GOLDM24S104 The Diamond Age                                   Science Fiction     
+GOLDM24S105 The Dispossessed                                  Science Fiction     
+GOLDM24S106 The Expanse                                       Science Fiction     
+GOLDM24S107 The Forever War                                   Science Fiction     
+GOLDM24S108 The Handmaid's Tale                               Science Fiction     
+GOLDM24S109 The Hitchhiker's Guide to the Galaxy              Science Fiction     
+GOLDM24S110 The Hunger Games                                  Science Fiction     
+GOLDM24S111 The Left Hand of Darkness                         Science Fiction     
+GOLDM24S112 The Left Hand of Darkness                         Science Fiction     
+GOLDM24S113 The Man in the High Castle                        Science Fiction     
+GOLDM24S114 The Martian                                       Science Fiction     
+GOLDM24S115 The Moon is a Harsh Mistress                      Science Fiction     
+GOLDM24S116 The Stars My Destination                          Science Fiction     
+GOLDM24S117 The Three-Body Problem                            Science Fiction     
+GOLDM24S118 The Time Machine                                  Science Fiction     
+GOLDM24S119 The War of the Worlds                             Science Fiction     
+GOLDM24S120 The Windup Girl                                   Science Fiction     
+GOLDM24F121 A Court of Thorns and Roses                       Fantasy             
+GOLDM24F122 A Game of Thrones                                 Fantasy             
+GOLDM24F123 Circe                                             Fantasy             
+GOLDM24F124 Eragon                                            Fantasy             
+GOLDM24F125 Good Omens                                        Fantasy             
+GOLDM24F126 Harry Potter and the Sorcerer's Stone             Fantasy             
+GOLDM24F127 Jonathan Strange & Mr Norrell                     Fantasy             
+GOLDM24F128 Mistborn                                          Fantasy             
+GOLDM24F129 The Belgariad                                     Fantasy             
+GOLDM24F130 The Black Prism                                   Fantasy             
+GOLDM24F131 The Blade Itself                                  Fantasy             
+GOLDM24F132 The Broken Earth                                  Fantasy             
+GOLDM24F133 The Dark Tower                                    Fantasy             
+GOLDM24F134 The Dragonbone Chair                              Fantasy             
+GOLDM24F135 The Farseer Trilogy                               Fantasy             
+GOLDM24F136 The Fifth Season                                  Fantasy             
+GOLDM24F137 The Golden Compass                                Fantasy             
+GOLDM24F138 The Grace of Kings                                Fantasy             
+GOLDM24F139 The Inheritance Trilogy                           Fantasy             
+GOLDM24F140 The Last Wish                                     Fantasy             
+GOLDM24F141 The Lies of Locke Lamora                          Fantasy             
+GOLDM24F142 The Lightbringer                                  Fantasy             
+GOLDM24F143 The Magicians                                     Fantasy             
+GOLDM24F144 The Malazan Book of the Fallen                    Fantasy             
+GOLDM24F145 The Name of the Wind                              Fantasy             
+GOLDM24F146 The Once and Future King                          Fantasy             
+GOLDM24F147 The Poppy War                                     Fantasy             
+GOLDM24F148 The Priory of the Orange Tree                     Fantasy             
+GOLDM24F149 The Rage of Dragons                               Fantasy             
+GOLDM24F150 The Shadow of the Wind                            Fantasy             
+GOLDM24F151 The Silmarillion                                  Fantasy             
+GOLDM24F152 The Song of Achilles                              Fantasy             
+GOLDM24F153 The Stormcaller                                   Fantasy             
+GOLDM24F154 The Stormlight Archive                            Fantasy             
+GOLDM24F155 The Sword of Shannara                             Fantasy             
+GOLDM24F156 The Warded Man                                    Fantasy             
+GOLDM24F157 The Way of Kings                                  Fantasy             
+GOLDM24F158 The Way of Shadows                                Fantasy             
+GOLDM24F159 The Wheel of Time                                 Fantasy             
+GOLDM24F160 The Witcher                                       Fantasy             
+GOLDM24H161 American Psycho                                   Horror              
+GOLDM24H162 Bird Box                                          Horror              
+GOLDM24H163 Bird Box                                          Horror              
+GOLDM24H164 Carrie                                            Horror              
+GOLDM24H165 Dracula                                           Horror              
+GOLDM24H166 Frankenstein                                      Horror              
+GOLDM24H167 Ghost Story                                       Horror              
+GOLDM24H168 Heart-Shaped Box                                  Horror              
+GOLDM24H169 Hell House                                        Horror              
+GOLDM24H170 House of Leaves                                   Horror              
+GOLDM24H171 It                                                Horror              
+GOLDM24H172 Let the Right One In                              Horror              
+GOLDM24H173 Mexican Gothic                                    Horror              
+GOLDM24H174 NOS4A2                                            Horror              
+GOLDM24H175 Pet Sematary                                      Horror              
+GOLDM24H176 Salem's Lot                                       Horror              
+GOLDM24H177 The Amityville Horror                             Horror              
+GOLDM24H178 The Anomaly                                       Horror              
+GOLDM24H179 The Cabin at the End of the World                 Horror              
+GOLDM24H180 The Cabin in the Woods                            Horror              
+GOLDM24H181 The Deep                                          Horror              
+GOLDM24H182 The Exorcist                                      Horror              
+GOLDM24H183 The Girl Next Door                                Horror              
+GOLDM24H184 The Girl with All the Gifts                       Horror              
+GOLDM24H185 The Haunting of Hill House                        Horror              
+GOLDM24H186 The Hunger                                        Horror              
+GOLDM24H187 The Last House on Needless Street                 Horror              
+GOLDM24H188 The Mist                                          Horror              
+GOLDM24H189 The Night Circus                                  Horror              
+GOLDM24H190 The Only Good Indians                             Horror              
+GOLDM24H191 The Ritual                                        Horror              
+GOLDM24H192 The Ruins                                         Horror              
+GOLDM24H193 The Shining                                       Horror              
+GOLDM24H194 The Silence of the Lambs                          Horror              
+GOLDM24H195 The Stand                                         Horror              
+GOLDM24H196 The Troop                                         Horror              
+GOLDM24H197 The Turn of the Screw                             Horror              
+GOLDM24H198 The Winter People                                 Horror              
+GOLDM24H199 The Witching Hour                                 Horror              
+GOLDM24H200 World War Z                                       Horror              
